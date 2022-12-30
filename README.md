@@ -1,5 +1,5 @@
 # embedded_clock
-## direct downnload all the files by Code >> Download ZIP & direct open the files in Proteus & MPLab 
+## direct download all the files by Code >> Download ZIP & direct open the files in Proteus & MPLab 
 - using 16*4 LCD
 - can edit seconds too 
   >does not reset the seconds
